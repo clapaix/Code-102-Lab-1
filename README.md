@@ -11,5 +11,6 @@ _Growth Mindset can be defined many ways and contain multiple similar themes, bu
 ### About the Author
 _Hi! My name is Colette Lapaix and I am a Code Fellows student dipping my toes into the world of coding. While I am still new to this, I am having so much fun recently and the prospect of learning new things is equal parts exhilarating and terrifying._
 
+![fullsizeoutput_5](https://user-images.githubusercontent.com/53190668/61653629-930d9900-ac6f-11e9-8a2c-9df9f488d244.jpeg)
 
 ### Thank you so much for stopping by my page! I hope these small tips help you someday.
