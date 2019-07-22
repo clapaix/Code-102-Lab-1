@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+### Welcome to Colette Lapaix's Growth Mindset Page!
 
-You can use the [editor on GitHub](https://github.com/clapaix/Code-102-Lab-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## What is Growth Mindset?
+_Growth Mindset can be defined many ways and contain multiple similar themes, but ultimately encompases the idea that one's intellect, talent, and skill should serve as the basis for further development and personal growth through positivity and perseverance._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How can I keep myself in a Growth Mindset?
+- Never tell yourself **"I can't"** you have only just begun, you can and will improve.
+- Take inspiration from the success of others. **Their success shows you it can be done, it is not a threat to you or your learning**
+- **Ask for help!** Pride can be damaging to one's ability to perform optimally when it impedes your ability to simply reach out to someone who may be able to assist you. Take their help as a teaching moment and try to grasp what you couldn't understand before. **Don't just give up**
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clapaix/Code-102-Lab-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Thank you so much for stopping by my page! I hope these small tips help you someday.
