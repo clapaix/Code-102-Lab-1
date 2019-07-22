@@ -1,4 +1,4 @@
-### Welcome to Colette Lapaix's Growth Mindset Page!
+# Welcome to Colette Lapaix's Growth Mindset Page!
 
 ## What is Growth Mindset?
 _Growth Mindset can be defined many ways and contain multiple similar themes, but ultimately encompases the idea that one's intellect, talent, and skill should serve as the basis for further development and personal growth through positivity and perseverance._
@@ -8,4 +8,4 @@ _Growth Mindset can be defined many ways and contain multiple similar themes, bu
 - Take inspiration from the success of others. **Their success shows you it can be done, it is not a threat to you or your learning**
 - **Ask for help!** Pride can be damaging to one's ability to perform optimally when it impedes your ability to simply reach out to someone who may be able to assist you. Take their help as a teaching moment and try to grasp what you couldn't understand before. **Don't just give up**
 
-# Thank you so much for stopping by my page! I hope these small tips help you someday.
+### Thank you so much for stopping by my page! I hope these small tips help you someday.
